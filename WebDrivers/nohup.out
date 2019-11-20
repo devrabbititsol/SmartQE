@@ -1,0 +1,262 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.2.RELEASE)
+
+2019-11-20 10:00:28.815  INFO 707 --- [           main] s.smartqeClient.SmartqeApplication       : Starting SmartqeApplication v0.0.1-SNAPSHOT on DevRabbits-Mac-mini.local with PID 707 (/Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers/smartqeClient.jar started by devrabbit in /Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers)
+2019-11-20 10:00:28.824  INFO 707 --- [           main] s.smartqeClient.SmartqeApplication       : No active profile set, falling back to default profiles: default
+2019-11-20 10:00:33.096  INFO 707 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$83b83fb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-20 10:00:33.316  INFO 707 --- [           main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2019-11-20 10:00:34.660  INFO 707 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8765 (http)
+2019-11-20 10:00:34.834  INFO 707 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-20 10:00:34.835  INFO 707 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-11-20 10:00:34.878  INFO 707 --- [           main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/devrabbit/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-11-20 10:00:35.948  INFO 707 --- [           main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-20 10:00:36.466  INFO 707 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-20 10:00:36.467  INFO 707 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 7438 ms
+2019-11-20 10:00:38.297  INFO 707 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8765 (http) with context path ''
+2019-11-20 10:00:38.316  INFO 707 --- [           main] s.smartqeClient.SmartqeApplication       : Started SmartqeApplication in 11.395 seconds (JVM running for 13.334)
+2019-11-20 10:01:43.606  INFO 707 --- [nio-8765-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-20 10:01:43.607  INFO 707 --- [nio-8765-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-11-20 10:01:43.630  INFO 707 --- [nio-8765-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 23 ms
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+2019-11-20 10:07:17.963  WARN 707 --- [nio-8765-exec-9] o.s.web.servlet.PageNotFound             : No mapping for GET /favicon.ico
+2019-11-20 10:07:35.109  WARN 707 --- [nio-8765-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2019-11-20 10:07:38.726  WARN 707 --- [nio-8765-exec-3] o.s.web.servlet.PageNotFound             : No mapping for GET /connectAny
+2019-11-20 10:07:41.588  WARN 707 --- [nio-8765-exec-4] o.s.web.servlet.PageNotFound             : No mapping for GET /connectAny
+2019-11-20 10:08:44.731  WARN 707 --- [nio-8765-exec-7] o.s.web.servlet.PageNotFound             : No mapping for GET /connectAny
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.2.RELEASE)
+
+2019-11-20 10:09:58.675  INFO 926 --- [           main] s.smartqeClient.SmartqeApplication       : Starting SmartqeApplication v0.0.1-SNAPSHOT on DevRabbits-Mac-mini.local with PID 926 (/Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers/smartqeClient.jar started by devrabbit in /Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers)
+2019-11-20 10:09:58.683  INFO 926 --- [           main] s.smartqeClient.SmartqeApplication       : No active profile set, falling back to default profiles: default
+2019-11-20 10:10:01.053  INFO 926 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$2bd67a55] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-20 10:10:01.136  INFO 926 --- [           main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2019-11-20 10:10:01.958  INFO 926 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8765 (http)
+2019-11-20 10:10:02.030  INFO 926 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-20 10:10:02.030  INFO 926 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-11-20 10:10:02.081  INFO 926 --- [           main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/devrabbit/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-11-20 10:10:02.807  INFO 926 --- [           main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-20 10:10:03.309  INFO 926 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-20 10:10:03.309  INFO 926 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4378 ms
+2019-11-20 10:10:05.370  INFO 926 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8765 (http) with context path ''
+2019-11-20 10:10:05.385  INFO 926 --- [           main] s.smartqeClient.SmartqeApplication       : Started SmartqeApplication in 8.162 seconds (JVM running for 9.214)
+2019-11-20 10:10:29.109  INFO 926 --- [nio-8765-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-20 10:10:29.109  INFO 926 --- [nio-8765-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-11-20 10:10:29.143  INFO 926 --- [nio-8765-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 34 ms
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.2.RELEASE)
+
+2019-11-20 10:36:46.256  INFO 1305 --- [           main] s.smartqeClient.SmartqeApplication       : Starting SmartqeApplication v0.0.1-SNAPSHOT on DevRabbits-Mac-mini.local with PID 1305 (/Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers/smartqeClient.jar started by devrabbit in /Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers)
+2019-11-20 10:36:46.266  INFO 1305 --- [           main] s.smartqeClient.SmartqeApplication       : No active profile set, falling back to default profiles: default
+2019-11-20 10:36:48.393  INFO 1305 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$c06de675] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-20 10:36:48.480  INFO 1305 --- [           main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2019-11-20 10:36:49.363  INFO 1305 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8765 (http)
+2019-11-20 10:36:49.455  INFO 1305 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-20 10:36:49.455  INFO 1305 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-11-20 10:36:49.488  INFO 1305 --- [           main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/devrabbit/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-11-20 10:36:50.089  INFO 1305 --- [           main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-20 10:36:50.515  INFO 1305 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-20 10:36:50.516  INFO 1305 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4061 ms
+2019-11-20 10:36:51.661  INFO 1305 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8765 (http) with context path ''
+2019-11-20 10:36:51.668  INFO 1305 --- [           main] s.smartqeClient.SmartqeApplication       : Started SmartqeApplication in 6.591 seconds (JVM running for 7.566)
+2019-11-20 10:36:57.084  INFO 1305 --- [nio-8765-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-20 10:36:57.085  INFO 1305 --- [nio-8765-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-11-20 10:36:57.109  INFO 1305 --- [nio-8765-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 24 ms
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.2.RELEASE)
+
+2019-11-20 10:42:40.446  INFO 1370 --- [           main] s.smartqeClient.SmartqeApplication       : Starting SmartqeApplication v0.0.1-SNAPSHOT on DevRabbits-Mac-mini.local with PID 1370 (/Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers/smartqeClient.jar started by root in /Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers)
+2019-11-20 10:42:40.453  INFO 1370 --- [           main] s.smartqeClient.SmartqeApplication       : No active profile set, falling back to default profiles: default
+2019-11-20 10:42:42.621  INFO 1370 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$68f227b2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-20 10:42:42.709  INFO 1370 --- [           main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2019-11-20 10:42:43.479  INFO 1370 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8765 (http)
+2019-11-20 10:42:43.553  INFO 1370 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-20 10:42:43.554  INFO 1370 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-11-20 10:42:43.583  INFO 1370 --- [           main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/devrabbit/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-11-20 10:42:44.221  INFO 1370 --- [           main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-20 10:42:44.640  INFO 1370 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-20 10:42:44.641  INFO 1370 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4035 ms
+2019-11-20 10:42:46.367  INFO 1370 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8765 (http) with context path ''
+2019-11-20 10:42:46.375  INFO 1370 --- [           main] s.smartqeClient.SmartqeApplication       : Started SmartqeApplication in 7.133 seconds (JVM running for 8.152)
+2019-11-20 10:42:47.766  INFO 1370 --- [nio-8765-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-20 10:42:47.766  INFO 1370 --- [nio-8765-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-11-20 10:42:47.799  INFO 1370 --- [nio-8765-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 33 ms
+mac os x
+File permissions changed.
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.2.RELEASE)
+
+2019-11-20 10:46:20.024  INFO 1413 --- [           main] s.smartqeClient.SmartqeApplication       : Starting SmartqeApplication v0.0.1-SNAPSHOT on DevRabbits-Mac-mini.local with PID 1413 (/Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers/smartqeClient.jar started by root in /Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers)
+2019-11-20 10:46:20.033  INFO 1413 --- [           main] s.smartqeClient.SmartqeApplication       : No active profile set, falling back to default profiles: default
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.2.RELEASE)
+
+2019-11-20 10:46:52.906  INFO 1425 --- [           main] s.smartqeClient.SmartqeApplication       : Starting SmartqeApplication v0.0.1-SNAPSHOT on DevRabbits-Mac-mini.local with PID 1425 (/Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers/smartqeClient.jar started by root in /Users/devrabbit/Desktop/FWCode/SmartQE/WebDrivers)
+2019-11-20 10:46:52.912  INFO 1425 --- [           main] s.smartqeClient.SmartqeApplication       : No active profile set, falling back to default profiles: default
+2019-11-20 10:46:55.496  INFO 1425 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$8cafd837] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-20 10:46:55.614  INFO 1425 --- [           main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2019-11-20 10:46:56.651  INFO 1425 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8765 (http)
+2019-11-20 10:46:56.730  INFO 1425 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-20 10:46:56.730  INFO 1425 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-11-20 10:46:56.756  INFO 1425 --- [           main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/devrabbit/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-11-20 10:46:57.529  INFO 1425 --- [           main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-20 10:46:57.968  INFO 1425 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-20 10:46:57.969  INFO 1425 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4905 ms
+2019-11-20 10:46:59.068  INFO 1425 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8765 (http) with context path ''
+2019-11-20 10:46:59.074  INFO 1425 --- [           main] s.smartqeClient.SmartqeApplication       : Started SmartqeApplication in 7.236 seconds (JVM running for 8.238)
+2019-11-20 10:51:21.026  INFO 1425 --- [nio-8765-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-20 10:51:21.026  INFO 1425 --- [nio-8765-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-11-20 10:51:21.059  INFO 1425 --- [nio-8765-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 33 ms
+mac os x
+/Users/devrabbit/Desktop/FWCode/SmartQE
+/usr/local/bin/node
+/Users/devrabbit/.npm-global/lib/node_modules/appium/build/lib/main.js
+/Users/devrabbit/Library/Android/sdk
+Done.
+This is for Mac
+File permissions changed.

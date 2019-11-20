@@ -1,0 +1,46 @@
+2019-11-13 10:39:30,854 [main] INFO desktop.testclasses.DesktopTest - URL : http://175.101.137.192:9999
+2019-11-13 10:40:49,204 [main] ERROR desktop.testclasses.DesktopTest - Exception is : java.net.ConnectException: Failed to connect to /175.101.137.192:9999
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DevRabbits-Mac-mini.local', ip: '192.168.1.32', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: driver.version: WiniumDriver
+2019-11-13 10:40:51,225 [main] ERROR desktop.testclasses.DesktopTest - Exception is : null
+2019-11-13 10:49:08,250 [main] INFO desktop.testclasses.DesktopTest - URL : http://175.101.137.192:9999
+2019-11-13 10:50:15,353 [main] ERROR desktop.testclasses.DesktopTest - Exception is : java.net.ConnectException: Failed to connect to /175.101.137.192:9999
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DevRabbits-Mac-mini.local', ip: '192.168.1.32', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: driver.version: WiniumDriver
+2019-11-13 10:50:17,377 [main] ERROR desktop.testclasses.DesktopTest - Exception is : null
+2019-11-13 11:28:18,776 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - URL : http://175.101.137.192:9999
+2019-11-13 11:28:20,988 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Application is Launched
+2019-11-13 11:28:25,341 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Join a meeting Button
+2019-11-13 11:28:29,886 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Filled Meeting Id Field : 12345678902
+2019-11-13 11:28:35,456 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Join Button
+2019-11-13 11:28:38,992 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - When meeteing ID is entered wrong, Alert Message is : This meeting ID is not valid. Please check and try again.
+2019-11-13 11:28:43,518 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Leave Button
+2019-11-13 14:49:54,723 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - URL : http://175.101.137.192:9999
+2019-11-13 14:49:56,687 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Application is Launched
+2019-11-13 14:50:00,057 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Join a meeting Button
+2019-11-13 14:50:04,116 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Filled Meeting Id Field : 12345678902
+2019-11-13 14:50:07,489 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Join Button
+2019-11-13 14:50:10,121 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - When meeteing ID is entered wrong, Alert Message is : This meeting ID is not valid. Please check and try again.
+2019-11-13 14:50:13,393 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Leave Button
+2019-11-13 15:56:11,681 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - URL : http://175.101.137.192:9999
+2019-11-13 15:56:13,923 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Application is Launched
+2019-11-13 15:56:17,365 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Join a meeting Button
+2019-11-13 15:56:21,960 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Filled Meeting Id Field : 12345678902
+2019-11-13 15:56:25,247 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Join Button
+2019-11-13 15:56:27,960 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - When meeteing ID is entered wrong, Alert Message is : This meeting ID is not valid. Please check and try again.
+2019-11-13 15:56:31,202 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Leave Button
+2019-11-15 10:35:44,409 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - URL : http://175.101.137.192:9999
+2019-11-15 10:35:47,332 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Application is Launched
+2019-11-15 10:35:52,081 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Join a meeting Button
+2019-11-15 10:35:56,510 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Filled Meeting Id Field : 12345678902
+2019-11-15 10:35:59,949 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Join Button
+2019-11-15 10:36:02,698 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - When meeteing ID is entered wrong, Alert Message is : This meeting ID is not valid. Please check and try again.
+2019-11-15 10:36:06,054 [TestNG-tests-1] INFO desktop.testclasses.DesktopTest - Clicked on Leave Button
+2019-11-20 10:04:06,819 [TestNG-tests-1] ERROR web.sqe_demo.parabank.webtestclasses.TC_Parabank - Element is not foundExpected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id=amount]' (tried for 20 second(s) with 500 milliseconds interval)
+2019-11-20 10:05:59,316 [TestNG-tests-1] ERROR web.sqe_demo.parabank.webtestclasses.TC_Parabank - Element is not foundExpected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id=amount]' (tried for 20 second(s) with 500 milliseconds interval)
+2019-11-20 10:07:38,945 [TestNG] ERROR web.sqe_demo.parabank.webtestclasses.TC_Parabank - Element is not foundExpected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id=amount]' (tried for 20 second(s) with 500 milliseconds interval)
+2019-11-20 11:38:09,090 [TestNG-tests-1] ERROR web.sqe_demo.parabank.webtestclasses.TC_Parabank - Element is not foundExpected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id=amount]' (tried for 20 second(s) with 500 milliseconds interval)
+2019-11-20 11:39:11,253 [TestNG] ERROR web.sqe_demo.parabank.webtestclasses.TC_Parabank - Element is not foundExpected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id=amount]' (tried for 20 second(s) with 500 milliseconds interval)
+2019-11-20 11:52:42,924 [TestNG-tests-1] ERROR web.sqe_demo.parabank.webtestclasses.TC_Home_Test - Element is not foundExpected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //DIV[@id=footerPanel]/UL[1]/LI[8]/A[1]' (tried for 20 second(s) with 500 milliseconds interval)

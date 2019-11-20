@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD/><BODY marginwidth="0" marginheight="0"><IMG src="https://beacon.krxd.net/usermatch.gif?partner=undertone&amp;partner_uid=3rgcg6ia7k9jx6kpihz4vi8jb" name="Krux" alt="" style="display:none" border="0" height="1" width="1"/><IMG src="https://idsync.rlcdn.com/403716.gif?partner_uid=3rgcg6ia7k9jx6kpihz4vi8jb" name="LiveRamp" alt="" style="display:none" border="0" height="1" width="1"/><IMG src="https://tags.bluekai.com/site/15597?id=3rgcg6ia7k9jx6kpihz4vi8jb" name="BlueKai" alt="" style="display:none" border="0" height="1" width="1"/><IMG src="https://dpm.demdex.net/ibs:dpid=152416&amp;dpuuid=3rgcg6ia7k9jx6kpihz4vi8jb" name="Adobe" alt="" style="display:none" border="0" height="1" width="1"/><IMG src="https://loadm.exelator.com/load/?p=204&amp;g=1145&amp;j=0&amp;utid=3rgcg6ia7k9jx6kpihz4vi8jb" name="Exelate (Batch Integration)" alt="" style="display:none" border="0" height="1" width="1"/><IMG src="https://cw.addthis.com/t.gif?pid=46&amp;pdid=3f8e1777250541459773edc836497ab7" name="Crosswise" alt="" style="display:none" border="0" height="1" width="1"/>
+
+<IMG src="https://us-u.openx.net/w/1.0/cm?id=fba3d144-1026-4d31-a758-943b9545e305&amp;r=https://usr.undertone.com/userPixel/sync?partnerId=39&amp;uid=" name="OpenX" alt="" style="display:none;" border="0" height="1" width="1"/>
+<IMG src="https://ib.adnxs.com/getuidnb?https://usr.undertone.com/userPixel/sync?partner=appnexus&amp;uid=$UID" name="AppNexus" alt="" style="display:none;" border="0" height="1" width="1"/>
+<IMG src="https://x.bidswitch.net/sync?ssp=undertone" name="BidSwitch" alt="" style="display:none;" border="0" height="1" width="1"/>
+
+<SCRIPT type="text/javascript">
+
+    const userIdEncCookie = getCookie("UTID_ENC");
+    const userIdCookie = getCookie("UTID");
+
+    let partners = [];
+
+    if (userIdCookie !== "") {
+        partners.push(
+            {
+                name: "Crosswise",
+                url: "https://cw.addthis.com/t.gif?pid=46&amp;pdid=" + userIdCookie
+            }
+        );
+    }
+
+    if (userIdEncCookie !== "") {
+        partners.push(
+            {
+                name: "Exelate (Batch Integration)",
+                url: "https://loadm.exelator.com/load/?p=204&amp;g=1145&amp;j=0&amp;utid=" + userIdEncCookie
+            },
+            {
+                name: "Adobe",
+                url: "https://dpm.demdex.net/ibs:dpid=152416&amp;dpuuid=" + userIdEncCookie
+            },
+            {
+                name: "BlueKai",
+                url: "https://tags.bluekai.com/site/15597?id=" + userIdEncCookie
+            },
+            {
+                name: "LiveRamp",
+                url: "https://idsync.rlcdn.com/403716.gif?partner_uid=" + userIdEncCookie
+            },
+            {
+                name: "Krux",
+                url: "https://beacon.krxd.net/usermatch.gif?partner=undertone&amp;partner_uid=" + userIdEncCookie
+            }
+        );
+    }
+
+    function getCookie(name) {
+        let re = new RegExp(name + "=([^;]+)");
+        let value = re.exec(document.cookie);
+        return (value != null) ? unescape(value[1]) : "";
+    }
+
+    function plantDmps() {
+        let imgs = getAllImgs();
+        for (let i = 0; i &lt; imgs.length; i++) {
+            document.body.insertAdjacentElement('afterbegin', imgs[i]);
+        }
+    }
+
+    function getAllImgs() {
+        let imgs = [];
+        for (let i = 0; i &lt; partners.length; i++) {
+            let img = document.createElement("img");
+            img.setAttribute("src", partners[i].url);
+            img.setAttribute("name", partners[i].name);
+            img.setAttribute("alt", "");
+            img.setAttribute("style", "display:none");
+            img.setAttribute("border", "0");
+            img.setAttribute("height", "1");
+            img.setAttribute("width", "1");
+            imgs.push(img);
+        }
+        return imgs;
+    }
+
+    let isAnyCookie = userIdEncCookie !== "" || userIdCookie !== "";
+    if (isAnyCookie) {
+        plantDmps();
+    }
+
+
+</SCRIPT>
+
+
+
+</BODY></HTML>
